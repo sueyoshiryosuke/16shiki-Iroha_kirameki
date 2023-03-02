@@ -17,6 +17,7 @@
 # License
   
 - ソースコード
+  
 Copyright (c) 2022-2023 Ryosuke Sueyoshi  
 Released under the [MIT license](https://opensource.org/licenses/mit-license.php).
   
