@@ -17,10 +17,10 @@
 # License
   
 - ソースコード
-Copyright (c) 2022-2023 Ryosuke Sueyoshi
-Released under the MIT license
+Copyright (c) 2022-2023 Ryosuke Sueyoshi  
+Released under the MIT license  
 [MIT license](https://opensource.org/licenses/mit-license.php).
-
+  
 - 画像、音声
   
 「画像と音声のライセンスについて.txt」（準備中）に記載。
