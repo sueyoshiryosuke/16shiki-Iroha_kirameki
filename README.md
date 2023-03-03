@@ -104,8 +104,7 @@
 　NVIDIA社のGPUを搭載していてもGPUは使用しません。  
   
 ・詳細  
-　第3回電竜戦本戦  
-　https://denryu-sen.jp/dr3/index.html  
+　[第3回電竜戦本戦](https://denryu-sen.jp/dr3/index.html)  
 　上記の大会に参加した時の将棋エンジンです。  
 　NVIDIA社のGPUを搭載していないパソコンでも動作するようにしています。  
 　大会当日のものよりも棋力は下がります。  
