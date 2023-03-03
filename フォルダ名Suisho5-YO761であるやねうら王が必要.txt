@@ -1,0 +1,5 @@
+Release やねうら王 実行ファイル詰め合わせ v7.6.1+20220511b.master · mizar/YaneuraOu
+https://github.com/mizar/YaneuraOu/releases/tag/v7.6.1%2B20220511b.master
+
+Suisho5-YaneuraOu-v7.6.1+20220511b.master-windows.7z (94.44 MB)
+3.a.のトーナメントWindows版+水匠5(20211123)評価関数 (ZEN2/AVX2/SSE4.2)

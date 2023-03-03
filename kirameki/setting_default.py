@@ -1,0 +1,9 @@
+engine_name="16-168-kirameki_2022"
+engine_author="Sueyoshi, and Students of Nihon Kogakuin"
+early_stage=32
+ponder_early_think_time=1200
+early_stage_think_time=3000
+middle_stage1=50
+ponder_think_time=1500
+middle_stage1_think_time=7000
+middle_stage2=100

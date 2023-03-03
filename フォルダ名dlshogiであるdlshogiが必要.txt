@@ -1,0 +1,2 @@
+Release 第32回世界コンピュータ将棋選手権バージョン · TadaoYamaoka/DeepLearningShogi
+https://github.com/TadaoYamaoka/DeepLearningShogi/releases/tag/wcsc32

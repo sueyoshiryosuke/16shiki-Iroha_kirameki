@@ -1,0 +1,4 @@
+Release WinPython 2020-05 of January 25th 2022 · winpython/winpython
+https://github.com/winpython/winpython/releases/tag/4.6.20220116
+
+Winpython64-3.9.10.0dot.exe
