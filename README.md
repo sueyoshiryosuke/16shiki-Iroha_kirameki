@@ -11,7 +11,7 @@
 【連絡先】　　　　[末吉のTwitter](https://twitter.com/16shiki168)  
 【配布元ページ】　https://github.com/sueyoshiryosuke/16shiki-Iroha_kirameki  
 【動作確認環境】　Windows11  
-　　　　　　　　　MyShogi_for_KIRAMEKI  
+　　　　　　　　　いろは煌盤（きらめきばん）  
 　　　　　　　　　　（「十六式いろは煌（きらめき）」の同梱版、非同梱版あり）  
 　　　　　　　　　将棋所　　Ver.4.9.2  
 　　　　　　　　　ShogiGUI　Ver.0.0.7.26  
@@ -74,9 +74,8 @@
 　　　「Ayane」を一部書き変えた（boundに関する部分を変更）ものを利用しています。  
 　　　詳細は「readme_ayane.txt」に記載しています。  
 　engine_define.xml  
-　　→「MyShogi_for_KIRAMEKI」用のファイルです。  
-　　　MyShogi_for_KIRAMEKI：　十六式いろは煌（きらめき）専用の将棋用GUI  
-　　　　https://github.com/sueyoshiryosuke/MyShogi_for_KIRAMEKI  
+　　→「いろは煌盤（きらめきばん）」用のファイルです。  
+　　　　https://github.com/sueyoshiryosuke/168KIRAMEKI_GUI  
 　  
 ・ダウンロード方法  
 　[Releases](https://github.com/sueyoshiryosuke/16shiki-Iroha_kirameki/releases)から  
